@@ -1,4 +1,4 @@
-package com.pulsefit.workout.hiit
+package com.nutriflow.diet.macrotracker
 
 import io.flutter.embedding.android.FlutterActivity
 
